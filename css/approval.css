@@ -1,0 +1,10 @@
+.leftPanel{
+    width:30%;
+    float: left;
+}
+
+.rightPanel{
+    width:70%;;
+    float: left;
+}
+
